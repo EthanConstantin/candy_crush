@@ -43,7 +43,7 @@ def new_random_grid():
 
 # Presenting the board
 def show_grid():
-    """Formatting an easy-to-understand grid with an x and y-axis, replacing the numbers with letters"""
+    """Formatting an easy-to-understand grid with an x and y-axis, replacing the numbers with letters - update comment"""
     LETTERS = {1: "Q", 2: "R", 3: "S", 4: "T", 5: "U"}
     print("      1     2     3     4     5     6     7     8")
     print("   -------------------------------------------------")
