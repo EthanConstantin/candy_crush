@@ -1,4 +1,4 @@
-# Making the board
+# Making the board - mikes suggestion
 import random
 grid = [
     [],
